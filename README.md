@@ -207,7 +207,7 @@ Command:
 
 **Make a perfect Repo to develop open source community for your Repo:**
 
-Go to **insight** section and go to **community** section and try to add the best thing possible to make your Repo perfect for contribution.
+Go to **insight** section and then go to **community** section and try to add the best thing possible to make your Repo is perfect for contribution.
 
 **Footnote:**
 
